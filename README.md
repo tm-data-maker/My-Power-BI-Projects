@@ -95,21 +95,21 @@ Examples of custom DAX calculations used in the project:
 
 ## 📷 Dashboard Screenshots
 
-### Executive Dashboard
-
-![Executive Dashboard](images/dashboard1.png)
+### Executive Sales Performance
+[![Sales Performance](Sales_Performance.png)](https://app.powerbi.com/view?r=eyJrIjoiNWVmYjU3ZGUtNTY5Yy00ZWM0LWJkMDMtNTA4M2IzYTdlZDU2IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 > *Provides a high-level overview of overall sales performance and core business KPIs.*
 
-### Sales Trends
+### Profit Margin & Category Trends
+[![Profit Margin Analysis](Profit_Margin_Analysis.png)](https://app.powerbi.com/view?r=eyJrIjoiNWVmYjU3ZGUtNTY5Yy00ZWM0LWJkMDMtNTA4M2IzYTdlZDU2IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+> *Shows sales growth trajectory, seasonal patterns, and product category distribution over time.*
 
-![Sales Trends](images/dashboard2.png)
-> *Shows sales growth trajectory and seasonal patterns over time.*
+### Geographic & Trip Distribution
+[![Geographic Analysis](Geographic_Trips_Analysis.png)](https://app.powerbi.com/view?r=eyJrIjoiNWVmYjU3ZGUtNTY5Yy00ZWM0LWJkMDMtNTA4M2IzYTdlZDU2IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+> *Displays regional trip distribution, provincial insights, and localized performance metrics.*
 
-### Geographic Analysis
-
-![Geographic Analysis](images/dashboard3.png)
-> *Displays regional sales distribution and localized performance heatmaps.*
-
+### Financial Summary & Slicer Filter
+[![Slicer Financial Summary](Slicer_Financial_Summary.png)](https://app.powerbi.com/view?r=eyJrIjoiNWVmYjU3ZGUtNTY5Yy00ZWM0LWJkMDMtNTA4M2IzYTdlZDU2IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+> *Demonstrates dynamic cross-filtering using region slicers and annual financial matrix breakdowns.*
 ---
 
 ## 🌐 Live Report
