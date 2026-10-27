@@ -114,7 +114,7 @@ Examples of custom DAX calculations used in the project:
 
 ## 🌐 Live Report
 
-👉 **[View Interactive Power BI Report](YOUR_POWER_BI_LINK_HERE)**
+👉 **[View Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNWVmYjU3ZGUtNTY5Yy00ZWM0LWJkMDMtNTA4M2IzYTdlZDU2IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)**
 
 ---
 
